@@ -1,0 +1,57 @@
+{
+    "chain": [
+        {
+            "timestamp": "01/01/2022",
+            "data": "Genesis block",
+            "previousHash": "0",
+            "hash": "9f377ec7dc1def939a8c5c270f2311ba782f912d644ce62e5d657d3775460f36",
+            "nonce": 0
+        },
+        {
+            "timestamp": "2023-04-06T12:13:55.211Z",
+            "data": {
+                "amount": 4
+            },
+            "previousHash": "9f377ec7dc1def939a8c5c270f2311ba782f912d644ce62e5d657d3775460f36",
+            "hash": "0002d6d8c45015ea2eae76da09bbaa09a2e84a85b5258894bfdf2d4681adf556",
+            "nonce": 257
+        },
+        {
+            "timestamp": "2023-04-06T12:13:56.211Z",
+            "data": {
+                "amount": 4
+            },
+            "previousHash": "0002d6d8c45015ea2eae76da09bbaa09a2e84a85b5258894bfdf2d4681adf556",
+            "hash": "006074656eb19a885e370fed90f35ff15b94e55c573aaf50c1a32da7b401ce8c",
+            "nonce": 225
+        },
+        {
+            "timestamp": "2023-04-06T12:13:57.214Z",
+            "data": {
+                "amount": 4
+            },
+            "previousHash": "006074656eb19a885e370fed90f35ff15b94e55c573aaf50c1a32da7b401ce8c",
+            "hash": "00ea3f04fad835a5354562cf8d8b968aa315f915137a4b018676e68ab22f1ba8",
+            "nonce": 313
+        },
+        {
+            "timestamp": "2023-04-06T12:13:58.215Z",
+            "data": {
+                "amount": 4
+            },
+            "previousHash": "00ea3f04fad835a5354562cf8d8b968aa315f915137a4b018676e68ab22f1ba8",
+            "hash": "00bb410d87863a846c1c746aee012a61a452d2b66f91bbe8e8978482d510701d",
+            "nonce": 314
+        },
+        {
+            "timestamp": "2023-04-06T12:13:59.227Z",
+            "data": {
+                "amount": 4
+            },
+            "previousHash": "00bb410d87863a846c1c746aee012a61a452d2b66f91bbe8e8978482d510701d",
+            "hash": "00fc5ee4d42997a0f4e16716dffd65bd3afa0127a66b79251662e406e1ecf39a",
+            "nonce": 999
+        }
+    ],
+    "difficulty": 2
+}
